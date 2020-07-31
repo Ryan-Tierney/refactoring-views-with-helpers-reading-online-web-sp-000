@@ -47,3 +47,7 @@ Started GET "/posts/new" for 173.18.197.157 at 2020-07-31 15:14:27 +0000
 Cannot render console from 173.18.197.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
 Processing by PostsController#new as HTML
   Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (21.9ms)
+Completed 200 OK in 60ms (Views: 52.4ms | ActiveRecord: 1.0ms)
+
+
